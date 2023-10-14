@@ -25,5 +25,6 @@ curl  -X GET 'http://localhost:3000/best'
 ```
 
 ## TODO
-  embeded database migrations
-  Dockerize the whole app
+  #### -- embeded database migrations
+  
+  #### -- Dockerize the whole app
