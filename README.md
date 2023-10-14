@@ -1,4 +1,6 @@
+![shadowtester](https://github.com/aminGhafoory/shadowsocksTester/assets/74732606/053bf0f7-7a05-4402-ba03-946b605826c5)
 # shadowsocksTester
+
 this little program fetches shadowsockses from diffrent subscriptions and test them and rank them so you can use them more conveniently
 you need to edit .env file based of your own database and your preferd port and you should run the migrations on your database
 ### add subscription link to subscription pool
