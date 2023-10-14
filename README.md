@@ -21,7 +21,7 @@ curl  -X GET 'http://localhost:3000/ss'
 
 ### get best shadowsockses
 ```
-curl  -X GET \'http://localhost:3000/best'
+curl  -X GET 'http://localhost:3000/best'
 ```
 
 ## TODO
